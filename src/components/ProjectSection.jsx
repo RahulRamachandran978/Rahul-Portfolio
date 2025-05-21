@@ -7,7 +7,7 @@ const projects = [
         id:1,
         title:"Green Cart",
         description:"",
-        image:"/public/Projects/GreenCart.png",
+        image:"/public/Projects/GreenCart.png", 
         tags:["React","Tailwind","Firebase"],
         demoUrl:"http://localhost:5174/",
         githubUrl:"https://github.com/RahulRamachandran978/GreenCart",
@@ -16,7 +16,7 @@ const projects = [
         id:2,
         title:"Instagram Clone",
         description:"",
-        image:"/public/Projects/insta-clone.png",
+        image:"/public/Projects/insta-clone.png", 
         tags:["React","Firebase"],
         demoUrl:"http://localhost:5175/",
         githubUrl:"https://github.com/RahulRamachandran978/clone-insta",
@@ -27,8 +27,8 @@ const projects = [
         description:"",
         image:"/public/Projects/Portfolio.png",
         tags:["React","Tailwind"],
-        demoUrl:"#",
-        githubUrl:"#",
+        demoUrl:"https://rahul-portfolio-bvftva4jp-rahulprs-projects.vercel.app/",
+        githubUrl:"https://github.com/RahulRamachandran978/Rahul-Portfolio",
     }
 ]
 
