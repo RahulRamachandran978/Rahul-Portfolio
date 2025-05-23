@@ -100,7 +100,7 @@ const ContactSection = () => {
       </div>
 
       {/* Contact Form */}
-      <div className='bg-card p-6 sm:p-8 rounded-lg shadow-md'>
+      <div className='bg-card p-6 sm:p-8 rounded-lg '>
         <h3 className='text-2xl font-semibold mb-6'>Send a Message</h3>
         <form className='space-y-6' onSubmit={handleSubmit}>
           <div>
