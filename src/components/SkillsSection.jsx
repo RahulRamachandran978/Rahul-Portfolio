@@ -20,7 +20,8 @@ const skills = [
     //Tools
     {name:"Figma",level:70,category:"tools"},
     {name:"Git/GitHub",level:60,category:"tools"},
-    {name:"VS Code",level:90,category:"tools"},
+    // {name:"VS Code",level:90,category:"tools"},
+    {name:"Visual studio",level:90,category:"tools"},
 ]
 
 const categories =["all","frontend","backend","tools"]

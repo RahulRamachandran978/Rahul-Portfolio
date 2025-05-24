@@ -19,10 +19,17 @@ const ContactSection = () => {
         e.preventDefault();
         setIsSubmitting(true);
       
+        const templateParams = {
+            from_name: formData.name,
+            reply_to:formData.email,
+            message:formData.message,
+            to_name:"Rahul"
+        }
+
         emailjs.send(
           'service_vma9yuo',
           'template_ffrjsqm',
-          formData,
+          templateParams,
           '8rdvAjXpoLrq6dZUc'
         ).then(() => {
           toast({

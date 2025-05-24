@@ -13,7 +13,7 @@ const HeroSection = () => {
                 </h1>
                 <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
                     Hey there! I'm a UI and React Developer who loves turning bold ideas into sleek, responsive web experiences. 
-                    I specialize in building fast, accessible, and pixel-perfect interfaces using React.js, JavaScript, HTML, and CSS. 
+                    I specialize in building fast, accessible, and pixel-perfect interfaces using React.js, JavaScript,jQuery, HTML, Bootstrap and CSS. 
                     With a sharp eye for design and a passion for clean code, I bring interfaces to life that not only 
                     look great but feel amazing to use. This portfolio is where creativity meets code — a glimpse into the work I love to do.
                 </p>
