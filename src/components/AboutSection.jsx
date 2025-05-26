@@ -24,9 +24,9 @@ const AboutSection = () => {
 
           <div className='grid grid-cols-1 gap-6'>
             <div className='gradient-border p-6 card-hover'>
-              <div className='flex items-start gap-4'>
+              <div className='flex items-center gap-4'>
                 <div className='p-3 rounded-full bg-primary/10'>
-                  <Code className='w-6 h-6 text-primary'/>
+                  <Code className='w-4 h-4 text-primary'/>
                 </div>
                 <div className='text-left'>
                   <h4 className='font-semibold text-lg'>Web Development</h4>
@@ -37,9 +37,9 @@ const AboutSection = () => {
               </div>
             </div>
             <div className='gradient-border p-6 card-hover'>
-              <div className='flex items-start gap-4'>
+              <div className='flex items-center gap-4'>
                 <div className='p-3 rounded-full bg-primary/10'>
-                  <User className='w-6 h-6 text-primary'/>
+                  <User className='w-4 h-4 text-primary'/>
                 </div>
                 <div className='text-left'>
                   <h4 className='font-semibold text-lg'>UI Design</h4>
