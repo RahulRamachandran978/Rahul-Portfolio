@@ -29,6 +29,14 @@ const projects = [
         tags:["React","Tailwind"],
         demoUrl:"https://rahul-portfolio-bvftva4jp-rahulprs-projects.vercel.app/",
         githubUrl:"https://github.com/RahulRamachandran978/Rahul-Portfolio",
+    },
+    {
+        id:4,
+        title:"Car Rental",
+        description:"",
+        image:"/projects/car-rental.png",
+        tags:["React","CSS","Bootstrap","MongoDB","Node.js","Express.js"],
+        githubUrl:"https://github.com/RahulRamachandran978/Car-Rental",
     }
 ]
 

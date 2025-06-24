@@ -99,7 +99,7 @@ const ContactSection = () => {
         <div className='pt-8'>
           <h4 className='font-medium flex items-start mb-4'>Connect With Me</h4>
           <div className='flex space-x-4'>
-            <a href='#' target='_blank'><Linkedin /></a>
+            <a href='https://www.linkedin.com/in/rahul-ramachandran-ba8486270/' target='_blank'><Linkedin /></a>
             <a href='#' target='_blank'><Instagram /></a>
             <a href='#' target='_blank'><Facebook /></a>
           </div>
