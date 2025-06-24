@@ -36,7 +36,7 @@ const projects = [
         description:"",
         image:"/Projects/car-rental.png",
         tags:["React","CSS","Bootstrap","MongoDB","Node.js","Express.js"],
-        githubUrl:"https://github.com/RahulRamachandran978/Car-Rental",
+        githubUrl:"https://github.com/RahulRamachandran978/CarRental",
     }
 ]
 
